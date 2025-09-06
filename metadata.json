@@ -1,0 +1,5 @@
+{
+  "name": "Gemini E-Commerce Analytics Dashboard",
+  "description": "A smart e-commerce sales analytics and forecasting dashboard that uses AI to generate insights. It features interactive charts for sales trends, top products, and customer segmentation, all presented in a modern, responsive interface.",
+  "requestFramePermissions": []
+}
